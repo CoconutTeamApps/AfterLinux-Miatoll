@@ -1,4 +1,4 @@
 # AfterLinux-Miatoll
-AfterLinux for Xiaomi Miatoll devices
+AfterLinux (Void Linux) for Xiaomi Miatoll devices
 
 current status: not tested
